@@ -227,27 +227,8 @@ https://github.com/user-attachments/assets/4eb139bd-db16-4ee7-ad36-b48e9f6244d7
 10. **End**.
 <img width="1894" height="940" alt="image" src="https://github.com/user-attachments/assets/5601d9e4-824a-4238-bce0-4b5f6192b6a8" />
 
-## PROJECT - 12 : Profile Card Generator (HTML, CSS, JavaScript)
 
-## Algorithm
-
-1. **Create** a basic HTML structure with a container and heading.
-2. **Add** a **Generate** button to trigger profile creation.
-3. **Select** required DOM elements using JavaScript.
-4. **Create** a function to generate a profile card dynamically.
-5. **Inside the function**:
-   - Create a `div` element for the profile card
-   - Create an `img` element for the profile image
-   - Create a heading element for the name
-   - Create a paragraph element for the description
-6. **Append** all created elements to the profile card.
-7. **Insert** the profile card into the main container.
-8. **Display** each new profile card below the previous one.
-9. **Repeat** the process on every button click to generate multiple cards.
-10. **End**.
-<img width="565" height="729" alt="image" src="https://github.com/user-attachments/assets/44d05b46-dd57-4d64-86fe-a7743b976fea" />
-
-## PROJECT - 13 : Loan Calculator (HTML, CSS, JavaScript)
+## PROJECT - 12 : Loan Calculator (HTML, CSS, JavaScript)
 
 ## Algorithm
 
@@ -270,7 +251,7 @@ https://github.com/user-attachments/assets/4eb139bd-db16-4ee7-ad36-b48e9f6244d7
 11. **End**.
 <img width="1224" height="898" alt="image" src="https://github.com/user-attachments/assets/3fec5df6-59cf-4732-8b24-6899c0c0e18f" />
 
-## PROJECT - 14 : Countdown Timer (HTML, CSS, JavaScript)
+## PROJECT - 13 : Countdown Timer (HTML, CSS, JavaScript)
 
 ## Algorithm
 
@@ -303,7 +284,7 @@ https://github.com/user-attachments/assets/4eb139bd-db16-4ee7-ad36-b48e9f6244d7
 
 <img width="1227" height="688" alt="image" src="https://github.com/user-attachments/assets/7dea098f-3536-4375-a5be-4c3a62e60ccf" />
 
-# PROJECT - 15 : Tip Calculator (HTML, CSS, JavaScript)
+# PROJECT - 14 : Tip Calculator (HTML, CSS, JavaScript)
 ## Algorithm
 
 1. **Create** a basic HTML structure for the Tip Calculator interface.
@@ -337,25 +318,8 @@ https://github.com/user-attachments/assets/4eb139bd-db16-4ee7-ad36-b48e9f6244d7
 
 <img width="1666" height="892" alt="image" src="https://github.com/user-attachments/assets/211e0655-962d-4e41-bb14-208966779243" />
 
-# PROJECT - 16 : Auto Typing Effect (HTML, CSS, JavaScript)
-## Algorithm
 
-1. **Create** a basic HTML structure containing an element to display the typing text.
-2. **Add** a class (e.g., `.auto-type`) to the target element.
-3. **Include** the Typed.js library using a CDN.
-4. **Initialize** the `Typed` object in JavaScript.
-5. **Provide** an array of strings to be typed dynamically.
-6. **Set** typing speed using `typeSpeed`.
-7. **Set** backspacing speed using `backSpeed`.
-8. **Enable** looping to repeat the typing animation continuously.
-9. **Add** a delay before backspacing starts.
-10. **Customize** the cursor character.
-11. **Enable** smart backspacing for smoother transitions.
-12. **Render** the typing animation on page load.
-13. **End**.
-<img width="679" height="250" alt="image" src="https://github.com/user-attachments/assets/99049098-2e85-4b48-8274-d071ddfb0c4b" />
-
-# PROJECT - 17 : PERCENTAGE CALCULATOR
+# PROJECT - 15 : PERCENTAGE CALCULATOR
 ## Algorithm
 1. **Create** a basic HTML structure containing input fields for number and percentage, a calculate button, and elements to display results.
 2. **Select** DOM elements using `getElementById` and `getElementsByClassName` for inputs, button, result displays, and error message.
@@ -386,7 +350,7 @@ https://github.com/user-attachments/assets/4eb139bd-db16-4ee7-ad36-b48e9f6244d7
 11. **End**.
 <img width="613" height="462" alt="image" src="https://github.com/user-attachments/assets/24da5391-ac10-4f0b-ba8b-9b14f17c3068" />
 
-# PROJECT - 19 : TO DO LIST
+# PROJECT - 16 : TO DO LIST
 ## Algorithm
 1. **Initialize** global variables for the current filter state and load existing todos from localStorage.
 2. **Create** a `saveToDo()` function to persist the todos array to localStorage.
@@ -401,21 +365,8 @@ https://github.com/user-attachments/assets/4eb139bd-db16-4ee7-ad36-b48e9f6244d7
 11. **End**.
  <img width="524" height="401" alt="image" src="https://github.com/user-attachments/assets/c05c2e5d-3eca-4c94-b03d-e0182f19f740" />
 
-# PROJET - 20 : QUICK PORTFOLIO
-## Algorithm
-1. Initialize responsive navigation bar for seamless user experience.
-2. Render header section with dynamic introduction and call-to-action.
-3. Display profile image and about section with concise bio.
-4. Organize skills into visually distinct cards with icons.
-5. Present recent works in a grid layout with project images and links.
-6. Implement smooth scrolling for navigation links.
-7. Validate contact form fields before submission.
-8. Use external fonts and icons for modern UI aesthetics.
-9. Ensure mobile-friendly design with adaptive layouts.
-10. Add interactive menu button for mobile navigation toggle.
-<img width="1908" height="4896" alt="image" src="https://github.com/user-attachments/assets/0009e579-94b4-48db-aef1-f86b2ef6a005" />
 
-# PROJECT - 21 : AWESOME POSTS (API FETCHING)
+# PROJECT - 17 : AWESOME POSTS (API FETCHING)
 ## ALGORITHM
 1. Wait for the DOM to fully load using the 'DOMContentLoaded' event.
 2. Select the container element where posts will be displayed ('.posts-container').
@@ -451,7 +402,7 @@ https://github.com/user-attachments/assets/4eb139bd-db16-4ee7-ad36-b48e9f6244d7
 11. **End** the process after displaying the result.
 
 
-## PROJECT – 23 : Movies Finder (HTML, CSS, JavaScript, API)
+## PROJECT – 18 : Movies Finder (HTML, CSS, JavaScript, API)
 
 ## Algorithm
 
@@ -469,7 +420,7 @@ https://github.com/user-attachments/assets/4eb139bd-db16-4ee7-ad36-b48e9f6244d7
 12. **End** the process after displaying the output.
 
 
-## PROJECT – 24 : Gemini AI Chat Application (HTML, CSS, JavaScript)
+## PROJECT – 19 : Gemini AI Chat Application (HTML, CSS, JavaScript)
 
 ## Algorithm
 
@@ -487,7 +438,7 @@ https://github.com/user-attachments/assets/4eb139bd-db16-4ee7-ad36-b48e9f6244d7
 12. **End** the process after displaying the response.
 <img width="1354" height="589" alt="image" src="https://github.com/user-attachments/assets/6644c213-74e9-40b0-8b45-470516c41c44" />
 
-## PROJECT - 25 : CURRENCY CONVERTOR USING API
+## PROJECT - 20 : CURRENCY CONVERTOR USING API
 
 ## Algorithm
 1. **Start** by creating the HTML structure for the currency converter interface.
@@ -503,7 +454,7 @@ https://github.com/user-attachments/assets/4eb139bd-db16-4ee7-ad36-b48e9f6244d7
 
 <img width="628" height="511" alt="image" src="https://github.com/user-attachments/assets/1d3fdb5d-fe14-4132-9fc3-2d0d23a81ca4" />
 
-## PROJECT - 26 : AI POWERED BACKGROUND REMOVER
+## PROJECT - 21 : AI POWERED BACKGROUND REMOVER
 ## Algorithm
 1. **Start** by creating the HTML structure for the background remover interface with upload area, image previews, and action buttons.
 2. **Design** a drag-and-drop zone and file input for image upload, along with "Remove Background" and "Download" buttons.
